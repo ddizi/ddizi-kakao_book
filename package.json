@@ -1,0 +1,19 @@
+{
+  "name": "kakao_book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kakao_book"
+  },
+  "keywords": [
+    "kakao",
+    "api"
+  ],
+  "author": "ruroo",
+  "license": "ISC"
+}
